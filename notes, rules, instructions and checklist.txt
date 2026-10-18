@@ -1,0 +1,237 @@
+Rules to follow throughout your journey
+- Practise coding every day you can.
+- Spend more time writing code than passively watching tutorials.
+- Attempt problems yourself before checking solutions.
+- Build projects after learning each major topic.
+- Revise old concepts regularly.
+- Learn one main programming language first: Python.
+- Focus on one deep learning framework first: PyTorch.
+- Learn the mathematics alongside machine learning.
+- Do not collect certificates without developing practical skills.
+- Start building your portfolio before you feel completely ready.
+- Apply for opportunities as soon as you have suitable skills and projects.
+- Aim for consistent progress, not perfection.
+
+
+
+
+AI Engineer Roadmap: Beginner to Advanced
+
+
+Phase 1: Computer science basics
+- [ ] Take CS50x — Introduction to Computer Science.
+- [ ] Learn how computers work.
+- [ ] Learn algorithms and logical thinking.
+- [ ] Learn binary and basic memory concepts.
+- [ ] Learn data structures.
+- [ ] Learn Big O notation (how to measure code efficiency).
+- [ ] Learn basic SQL and databases.
+- [ ] Learn Git and GitHub.
+https://www.youtube.com/watch?v=h6lqxDwUmJQ&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R
+
+Phase 2: Learn Python properly
+- [ ] Variables and data types.
+- [ ] Input and output.
+- [ ] Operators.
+- [ ] Conditions: if, elif, else.
+- [ ] Loops: for, while.
+- [ ] Functions.
+- [ ] Strings and lists.
+- [ ] Tuples, sets, and dictionaries.
+- [ ] List comprehensions.
+- [ ] File handling.
+- [ ] Error handling and exceptions.
+- [ ] Modules, packages, and libraries.
+- [ ] Object-oriented programming.
+- [ ] Debugging.
+- [ ] Testing with pytest or unittest.
+- [ ] Writing clean, readable code.
+- [ ] Virtual environments and package management.
+https://www.youtube.com/watch?v=ix9cRaBkVe0
+https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V
+ 
+Phase 3: Problem-solving and algorithms
+- [ ] Solve basic programming problems regularly.
+- [ ] Learn how to break a large problem into small steps.
+- [ ] Learn pseudocode and flowcharts.
+- [ ] Practise strings and arrays.
+- [ ] Practise dictionaries and sets.
+- [ ] Learn linear and binary search.
+- [ ] Learn sorting algorithms.
+- [ ] Learn recursion.
+- [ ] Learn stacks and queues.
+- [ ] Learn linked lists, trees, and graphs.
+- [ ] Learn hash tables and heaps.
+- [ ] Learn two-pointer and sliding-window techniques.
+- [ ] Learn backtracking, greedy algorithms, and dynamic programming.
+- [ ] Understand time and space complexity.
+- [ ] Practise explaining why your solution works.
+https://leetcode.com/
+https://www.hackerrank.com/
+
+Phase 4: Mathematics for AI
+Learn these topics in order:
+- [ ] Algebra and equations.
+- [ ] Functions and graphs.
+- [ ] Exponents and logarithms.
+- [ ] Summations and mathematical notation.
+- [ ] Vectors.
+- [ ] Matrices and matrix multiplication.
+- [ ] Dot products.
+- [ ] Linear transformations.
+- [ ] Eigenvalues and eigenvectors.
+- [ ] Derivatives and gradients.
+- [ ] Partial derivatives.
+- [ ] Chain rule.
+- [ ] Probability.
+- [ ] Conditional probability and Bayes' theorem.
+- [ ] Random variables and distributions.
+- [ ] Mean, variance, and standard deviation.
+- [ ] Sampling and statistical inference.
+- [ ] Correlation and hypothesis testing.
+Algebra 1 & Algebra 2 (Exponents, Logarithms, Functions, Notation)   Linear Algebra (Vectors, Matrices, Dot Products, Transformations, Eigenvalues)Multivariable Calculus (Derivatives, Gradients, Partial Derivatives, Chain Rule)Statistics & Probability (Bayes' Theorem, Distributions, Mean/Variance, Correlation, Hypothesis Testing)
+
+Phase 5: Python for data science
+- [ ] Learn NumPy.
+https://www.youtube.com/watch?v=VXU4LSAQDSc
+- [ ] Learn pandas.
+https://www.youtube.com/watch?v=VXtjG_GzO7Q
+- [ ] Learn Matplotlib.
+https://www.youtube.com/watch?v=c9vhHUGdav0
+- [ ] Learn Seaborn.
+https://www.youtube.com/watch?v=rLVCSmtoA7U
+- [ ] Learn data cleaning.
+https://www.youtube.com/watch?v=Ck0QgwiCEIs
+- [ ] Learn missing-value handling.
+
+- [ ] Learn data analysis and exploration.
+https://www.youtube.com/watch?v=rAI4ITRMkTY&list=PLTsu3dft3CWhLHbHTTzvG3Vx8XDWemG17
+- [ ] Learn data visualization.
+
+- [ ] Learn SQL queries.
+https://www.youtube.com/watch?v=5OdVJbNCSso
+- [ ] Learn filtering, grouping, and joins.
+https://www.youtube.com/watch?v=G3lJAxg1cy8&pp=ygUoZmlsdGVyaW5nIGdyb3VwaW5nIGFuZCBqb2lucyBzcWwgcXVlcmllcw%3D%3D
+https://www.youtube.com/watch?v=FztbYXeOEQ4&pp=ygUoZmlsdGVyaW5nIGdyb3VwaW5nIGFuZCBqb2lucyBzcWwgcXVlcmllc9IHCQlHDAGHKiGM7w%3D%3D
+https://www.youtube.com/watch?v=i5acg3Hvu6g&pp=ygUWZmlsdGVyaW5nICBzcWwgcXVlcmllcw%3D%3D
+- [ ] Learn basic statistics using real datasets.
+
+- [ ] Build data analysis projects.
+
+
+Phase 6: Machine learning
+- [ ] Understand what machine learning is.
+- [ ] Learn supervised and unsupervised learning.
+- [ ] Understand features and labels.
+- [ ] Learn training, validation, and test datasets.
+- [ ] Learn linear regression.
+- [ ] Learn logistic regression.
+- [ ] Learn decision trees.
+- [ ] Learn random forests.
+- [ ] Learn gradient boosting.
+- [ ] Learn Naive Bayes.
+- [ ] Learn k-nearest neighbors.
+- [ ] Learn k-means clustering.
+- [ ] Learn feature engineering.
+- [ ] Learn data preprocessing.
+- [ ] Learn overfitting and underfitting.
+- [ ] Learn regularization and cross-validation.
+- [ ] Learn model evaluation metrics.
+- [ ] Learn scikit-learn.
+- [ ] Train and evaluate models on real datasets.
+
+Phase 7: Deep learning
+- [ ] Understand artificial neural networks.
+- [ ] Learn neurons, layers, and activation functions.
+- [ ] Learn loss functions.
+- [ ] Learn gradient descent.
+- [ ] Understand backpropagation.
+- [ ] Learn optimizers and learning rates.
+- [ ] Learn tensors.
+- [ ] Learn automatic differentiation.
+- [ ] Learn PyTorch.
+- [ ] Learn how to train and evaluate neural networks.
+- [ ] Learn convolutional neural networks (CNNs).
+- [ ] Understand recurrent neural networks (RNNs) and when they are useful.
+- [ ] Learn attention mechanisms.
+- [ ] Learn transformers.
+- [ ] Understand generative adversarial networks (GANs) conceptually and implement them if relevant to your goals.
+https://pytorch.org/tutorials/?utm_source=chatgpt.com
+
+Phase 8: Modern AI and generative AI
+- [ ] Learn natural language processing (NLP).
+- [ ] Learn tokenization.
+- [ ] Learn embeddings.
+- [ ] Understand large language models (LLMs).
+- [ ] Learn how to use model APIs.
+- [ ] Learn prompt design and structured outputs.
+- [ ] Learn retrieval-augmented generation (RAG).
+- [ ] Learn vector databases and similarity search.
+- [ ] Learn how to evaluate AI-generated answers.
+- [ ] Learn hallucination reduction and grounding answers in sources.
+- [ ] Learn fine-tuning concepts.
+- [ ] Learn AI application security and privacy.
+- [ ] Build an AI application that solves a real problem.
+https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm
+https://huggingface.co/learn/?utm_source=chatgpt.com
+
+Phase 9: Software engineering for AI
+- [ ] Become comfortable with Git and GitHub.
+- [ ] Learn Linux and command-line basics.
+- [ ] Learn HTTP, REST APIs, and JSON.
+- [ ] Learn FastAPI.
+- [ ] Learn PostgreSQL and database design.
+- [ ] Learn automated testing.
+- [ ] Learn code organization and project structure.
+- [ ] Learn logging and error handling.
+- [ ] Learn Docker.
+- [ ] Learn environment variables and secrets management.
+- [ ] Learn deployment and cloud fundamentals.
+- [ ] Learn how to monitor deployed applications.
+- [ ] Learn model versioning and experiment tracking.
+- [ ] Learn basic CI/CD.
+
+Phase 10: Big data technologies
+Learn these after you understand Python, SQL, and basic data processing.
+- [ ] Understand how large datasets are stored and processed.
+- [ ] Learn Apache Spark.
+- [ ] Understand the Hadoop ecosystem.
+- [ ] Learn MongoDB basics.
+- [ ] Understand distributed computing.
+- [ ] Learn data pipelines and batch processing.
+
+Phase 11: Build your portfolio
+Build these projects in increasing difficulty.
+- [ ] Project 1: Python calculator, quiz, or expense tracker.
+- [ ] Project 2: Data analysis and visualization project.
+- [ ] Project 3: Machine learning prediction model.
+- [ ] Project 4: Classification project with proper evaluation.
+- [ ] Project 5: Deep learning project.
+- [ ] Project 6: AI document question-answering application.
+- [ ] Project 7: Deployed AI application with an API and database.
+IMPORTANT
+For every project:
+- [ ] Write your own code.
+- [ ] Upload it to GitHub.
+- [ ] Write a clear README.
+- [ ] Explain your approach.
+- [ ] Test the application.
+- [ ] Document its limitations.
+- [ ] Deploy your best projects where practical.
+
+
+
+
+Phase 12: Prepare for a job
+- [ ] Create a professional CV.
+- [ ] Maintain a clean GitHub profile.
+- [ ] Build a LinkedIn profile.
+- [ ] Practise explaining your projects.
+- [ ] Practise Python coding interviews.
+- [ ] Review data structures and algorithms.
+- [ ] Understand the mathematics behind your ML projects.
+- [ ] Learn basic system design as your skills grow.
+- [ ] Read job descriptions and identify skill gaps.
+- [ ] Apply for relevant internships and junior roles.
+- [ ] Practise technical interviews.
+- [ ] Keep improving your portfolio based on feedback.
